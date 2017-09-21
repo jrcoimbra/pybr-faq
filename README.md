@@ -2,6 +2,7 @@
 # FAQ do grupo de facebook Python Brasil - Programadores
 
 Seja bem vindo ao FAQ do grupo Python Brasil - Programadores!
+
 Aqui você vai encontrar as respostas para as perguntas mais frequentes que vemos no grupo, de forma sucinta e breve. Você não sabe o que é Python? Comece por aqui: https://pt.wikipedia.org/wiki/Python
 
 
@@ -9,13 +10,15 @@ Aqui você vai encontrar as respostas para as perguntas mais frequentes que vemo
 
 
 ## 0. Como devo postar meu código para receber ajuda de outros programadores?
-O Facebook não possui indentação de código adequada para Python (ou mesmo para qualquer outra linguagem) e printscreens/fotos normalmente não permitem a visualização necessária do código completo. Caso o seu código não esteja disponível em algum repositório público de ferramentas de versionamento como o Github ou Bitbucket, é sugerido o uso de ferramentas como pastebin.com, hastebin.com e gist.github.com para envio do código ao grupo.  
+O Facebook não possui indentação de código adequada para Python (ou mesmo para qualquer outra linguagem) e printscreens/fotos normalmente não permitem a visualização necessária do código completo. Caso o seu código não esteja disponível em algum repositório público de ferramentas de versionamento como o Github ou Bitbucket, é sugerido o uso de ferramentas como https://pastebin.com, https://hastebin.com e https://gist.github.com para envio do código ao grupo.  
 
 
 ## 1. Qual a melhor IDE para Python?
 Talvez essa seja a pergunta mais recorrente nos últimos tempos. Antes de tudo, o que é IDE? IDE é um ambiente de desenvolvimento integrado (Integrated Development Environment), ou seja, uma ferramenta que provê facilidades ao programador para desenvolver aplicações (https://en.wikipedia.org/wiki/Integrated_development_environment), podendo ou não conter compilador, interpretador, controle de versão, dentre outras ferramentas.
 No caso específico de Python, você pode visualizar uma lista completa aqui: https://wiki.python.org/moin/IntegratedDevelopmentEnvironments
+
 As ferramentas mais conhecidas e utilizadas no mercado são, em ordem alfabética: PyCharm, Visual Studio 
+
 Editores de texto/editores de código como Atom, Brackets, SublimeText e VIM, entretanto, são amplamente utilizados pela grande maioria dos profissionais do mercado. 
 
 
@@ -57,6 +60,8 @@ https://www.coursera.org/learn/python-data
 https://developers.google.com/edu/python/
 
 
+
+---
 Quer contribuir? Clone o repositório e envie o seu PR! Ficaremos muito gratos com a sua ajuda!
 Regras: 
 1. Sem erros de português.
