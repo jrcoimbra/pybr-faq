@@ -23,8 +23,10 @@ Editores de texto/editores de código como Atom, Brackets, SublimeText e VIM, en
 
 
 ## 2. Sou muito novo/muito velho para programar?
-Não. Programar não tem idade:
+Não. Programar não tem idade, como você pode ver nos casos a seguir:
+
 http://mashable.com/2017/02/28/japanese-81-year-old-app/
+
 http://metro.co.uk/2016/09/09/boy-7-becomes-worlds-youngest-computer-programmer-6119766/
 
 
